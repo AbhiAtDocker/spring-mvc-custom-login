@@ -1,0 +1,78 @@
+<style type="text/css">
+ 
+ a{
+ text-decoration:none;
+ color:white;
+ }
+ 
+ a:hover{
+  color:coral; 
+ }
+ #message span{
+  color: orange;
+   margin-bottom: 20px;
+ }
+ 
+ 
+   #message a{
+      display: inline-block;
+      text-decoration:none;
+      
+  }
+  
+  .btn-1{
+    background: #333;
+    color:white;  
+    padding: 10px;
+  }
+  
+  .btn-1:hover{
+    background: lightgrey;
+    color:black;
+  }
+   
+  nav{
+   display:flex;
+   background:black;
+   color: white;
+  } 
+  
+  nav h3{
+  width:30%;
+  text-align:center;
+  font-size:medium;
+  }
+  
+   nav h3 a{
+     
+   }
+  
+  nav .container-1{
+  width:100%;
+  }
+   nav .container-1{
+  display:flex;
+  align-text:center;
+  justify-content: space-between;
+  
+  }
+  
+  #logout{
+     padding-top:15px;
+     margin-right:20px;
+  }
+ 
+ nav ul{
+  list-style-type:none;
+ 
+ }  
+ 
+ nav ul li{
+  display: inline-block;
+  padding: 0 10px;
+  text-align: center;
+ }
+ 
+
+ 
+ </style>
